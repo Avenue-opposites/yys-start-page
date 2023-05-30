@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "type": "module",
   "author": "Avenue-opposites",
-  "packageManager": "@pnpm8.5.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
